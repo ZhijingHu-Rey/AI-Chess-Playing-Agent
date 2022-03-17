@@ -1,6 +1,6 @@
 # AI-Chess-Playing-Agent
 Mini AI project for Chess playing @ Johns Hopkins Univ
-
+- Instructor: Musad Haque, PhD
 - In this project, create chess-playing agent.
 
 - More specifically:
