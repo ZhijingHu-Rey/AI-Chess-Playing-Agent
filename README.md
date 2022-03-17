@@ -1,7 +1,7 @@
 # AI-Chess-Playing-Agent
 Mini AI project for Chess playing @ Johns Hopkins Univ
 
--In this project, create chess-playing agent.
+- In this project, create chess-playing agent.
 
 - More specifically:
 
